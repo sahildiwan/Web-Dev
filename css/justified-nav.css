@@ -11,9 +11,14 @@ a:hover {
   color: #47a447;
 }
 
+.btn-primary {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+
 .btn-primary:hover {
-  background-color: #e6b800;
-  border-color: #cca300;
+  background-color: #47a447;
+  border-color: #398439;
 }
 
 .footer {
