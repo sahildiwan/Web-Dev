@@ -1,6 +1,6 @@
 body {
   padding-top: 20px;
-  background-color: #e0e0e0;
+  background-color: #f9f9f9;
 }
 
 a {
@@ -9,6 +9,14 @@ a {
 
 a:hover {
   color: #47a447;
+}
+
+.imagemobile {
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .btn-primary {
