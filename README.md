@@ -1,3 +1,3 @@
 ## Web Dev @ UO ##
 
-Visit : http://pages.uoregon.edu/webdev/
+Visit : http://www.cs.uoregon.edu/groups/webdev/
